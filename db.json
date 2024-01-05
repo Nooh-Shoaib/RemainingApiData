@@ -19,12 +19,12 @@
 }
 ],
 "demandDevs": {
-  "heading": "Are You Looking For The Best <br/> Graphics & Branding?",
-  "backgroundimage": "https://thecustomwebsites.com/wp-content/uploads/2023/05/bgjqzs6jxmphupwor6c1.jpg",
-  "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/kf5frpoux1zprkrumbfq.jpg",
-  "applyBlackOverlay": true
+ "heading": "Are You Looking For The Best <br/> Graphics & Branding?",
+ "backgroundimage": "https://thecustomwebsites.com/wp-content/uploads/2023/05/bgjqzs6jxmphupwor6c1.jpg",
+ "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/kf5frpoux1zprkrumbfq.jpg",
+ "applyBlackOverlay": true
 },
-  "portfolio": [
+ "portfolio": [
 {
 "heading": "JM TRANSFERS",
 "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/rcfaxcg4nfvua4avtyam-768x614.png"
@@ -110,9 +110,7 @@
 "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/xp6mm0eifpu6mmc8orje-768x614.png"
 }
 ]
-}
-],
-  "cms": [
+},
 {
 "slug": "cms",
 "id": "cms",
@@ -130,7 +128,7 @@
 ]
 }
 ],
-  "portfolio": [
+ "portfolio": [
 {
 "heading": "PB DANCE COLLECTION",
 "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/kizjoksxzoqilwrj6stb-768x614.png"
