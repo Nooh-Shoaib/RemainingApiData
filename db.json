@@ -142,20 +142,6 @@
  {
 "slug": "devops",
 "id": "devops",
-"breadcrumbs": {
-"pageTitle": "Increase Agility with DevOps – Modern Application Development",
- "category": "DevOps",
-"backgroundimage": "https://thecustomwebsites.com/wp-content/uploads/2023/05/bafqzem8aeesyvynsphi.jpg"
-},
-"description": [
-{
-"heading": "Increase Agility with DevOps – Modern Application Development",
-"text": [
- "Increase your organizations’ speed of delivering quality services and applications without investing time in traditional development processes. With our professional DevOps services, you can serve your clients better and add value to their businesses through faster services and compete even more effectively in the market. Quick marketing and rapid development are the two key factors that will decide the success of your organization in today’s IT industry. Many enterprises struggle with investing for improved quality, faster delivery, and reliability.",
- "If you want to enhance your organizations’ capabilities of delivering applications and services faster. developing high-paced products, and marketing your products quickly, all you need is our DevOps solutions. Our company addresses all the challenges that you might face during development cycles therefore, we provide an agile DevOps solution to accelerate innovation, reduce testing time, and remove gaps between two core systems i.e., Development (Dev) and Operations (Ops) to improve communication, collaboration, and productivity.",
-"Hire a DevOps developer from “The Custom Websites” and let us handle all your development problems. Our DevOps solutions will enable your organization to offer high-quality products and services to empower your business reliably and rapidly. You’re one call away from seeking professional DevOps services."
-]}
-],
 "tech": [
 {
 "techHeading": "We Create Custom Websites With The Latest Technologies",
@@ -195,6 +181,16 @@
 "icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/tqppyxxfsnsckxbcmtqz.png",
 "heading": "Testing and Monitoring",
 "text": "We detect possible security threats and weaknesses initially in the deployment process that can harm your system and data. Our expert developers provide comprehensive security measures to protect your organization."
+},
+ {
+"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/bqrge2xvftx2wvlt8iwr.png",
+"heading": "Enterprise DevOps Solutions",
+"text": "Our DevOps experts develop customized business applications and software that meet the need of small to large enterprises. We provide scalable, robust, and secure DevOps solutions at a rate entrepreneurs want."
+},
+{
+"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/gs5fczhakmnrudx6tb6d.png",
+"heading": "Continuous Integration",
+"text": "Increase transparency, raise customer satisfaction and reduce release time. From building to running the software, the whole cycle is automated to increase the speed, reliability, and scalability of the products/services."
 }
 ]
 }
