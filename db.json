@@ -6,7 +6,7 @@
 "breadcrumbs": {
 "pageTitle": "Let Your Brand Design Speak & Boost Sales For You",
 "category": "Graphics & Branding",
-"backgroundimage": "https://thecustomwebsites.com/wp-content/uploads/2023/05/eieclwkinaxntnpnjgdc.jpg"
+"backgroundimage": "https://thecustomwebsites.com/wp-content/uploads/2023/05/ahdltdur4rvuvco5zj2z.jpg"
 },
 "description": [
 {
@@ -108,6 +108,36 @@
 {
 "heading": "KASHI CBD",
 "image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/xp6mm0eifpu6mmc8orje-768x614.png"
+}
+]
+}
+],
+  "cms": [
+{
+"slug": "cms",
+"id": "cms",
+"breadcrumbs": {
+"pageTitle": "CMS",
+"category": "CMS",
+"backgroundimage": "https://thecustomwebsites.com/wp-content/uploads/2023/05/ahdltdur4rvuvco5zj2z.jpg"
+},
+"description": [
+{
+"heading": "Custom CMS Builders & Development",
+"subheading": "<strong>CMS is the modern methodology to develop websites.</strong>",
+"text": [
+"CMS is the modern methodology to develop websites."
+]
+}
+],
+  "portfolio": [
+{
+"heading": "PB DANCE COLLECTION",
+"image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/kizjoksxzoqilwrj6stb-768x614.png"
+},
+{
+"heading": "PRESTO",
+"image": "https://thecustomwebsites.com/wp-content/uploads/2023/05/sk0t1gypciugchcdfda0-768x614.png"
 }
 ]
 }
